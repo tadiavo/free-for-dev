@@ -134,7 +134,7 @@ Table of Contents
     * Db2 database - 100MB of data storage
     * API Connect - 50,000 API calls per month
     * Availability Monitoring - 3 million data points per month
-    * Log Analysis - 500MB of daily log
+    * Log Analysis - 500MB of daily log.
     * Full, detailed list - https://www.ibm.com/cloud/free/
 
 **[⬆ back to top](#table-of-contents)**
